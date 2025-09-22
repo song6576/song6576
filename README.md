@@ -47,7 +47,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song6576&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=song6576&show_icons=true&theme=dark&count_private=true)
 ![](https://activity-graph.herokuapp.com/graph?username=song6576&theme=github)
 ![](https://stats.justsong.cn/api/csdn?id=dqzd12345&theme=dark)
