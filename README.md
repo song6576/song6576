@@ -52,3 +52,7 @@
 <!-- 可以添加一些状态徽章，如GitHub统计等 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=song6576&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song6576&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=song6576&show_icons=true&theme=dark&count_private=true)
+![](https://activity-graph.herokuapp.com/graph?username=song6576&theme=github)
+![](https://stats.justsong.cn/api/csdn?id=dqzd12345&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=song6576&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
