@@ -46,8 +46,4 @@
 感谢您查看我的个人主页，期待有机会与您合作！
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=song6576&show_icons=true&theme=dark&count_private=true)
-![](https://activity-graph.herokuapp.com/graph?username=song6576&theme=github)
-![](https://stats.justsong.cn/api/csdn?id=dqzd12345&theme=dark)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=song6576&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
