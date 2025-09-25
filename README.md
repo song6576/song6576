@@ -44,6 +44,3 @@
 - 电话：15107021708
 
 感谢您查看我的个人主页，期待有机会与您合作！
-
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=song6576&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
